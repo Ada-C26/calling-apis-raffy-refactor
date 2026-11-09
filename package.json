@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
+    "module": "node src/index.mjs",
     "lint": "npx eslint"
   },
   "author": "Ada Developers Academy",
